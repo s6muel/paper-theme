@@ -13,6 +13,8 @@ Please note that the palette has been designed with the following display proper
 - A low display brightness
 
 ## Supported Applications
+For requests please raise an issue. 
+
 - [Bashtop](themes/bashtop)
 - [iTerm2](themes/iterm)
 - [vifm](themes/vifm)
