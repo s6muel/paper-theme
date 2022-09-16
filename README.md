@@ -12,6 +12,12 @@ Please note that the palette has been designed with the following display proper
 - A display temperature range of 4000K-5200K
 - A low display brightness
 
+## Supported Applications
+- [Bashtop](themes/bashtop)
+- [iTerm2](themes/iterm)
+- [vifm](themes/vifm)
+- [Vieb](themes/vieb)
+
 ## The Palette
 
 | Color   | Normal    | Bright    | GNOME Terminal color index
@@ -31,12 +37,6 @@ For the text color, highlight color, etc, use:
 |:----------|:-----------|:------------
 | Text      | `#000000`  | `#F2EEDE`
 | Highlight | `#000000`  | `#D8D5C7`
-
-## Applications
-- Bashtop
-- iTerm2
-- `vifm`
-- Vieb
 
 ## License
 All source code in this repository is licensed under the Mozilla Public License version 2.0, unless stated otherwise. A copy of this license can be found in the file "LICENSE".
