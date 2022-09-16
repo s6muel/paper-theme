@@ -1,6 +1,10 @@
 # Paper Theme
 The original way to read.
 
+![vim](screenshots/vim-eg.png)
+
+![btop](screenshots/btop-eg.png)
+
 ## Introduction & Philosophy
 *Paper* is an extremely legible, light colour palette “based on the colour of paper as found in various notebooks,” and originally created by [Yorick Peterse](https://gitlab.com/yorickpeterse). As a result, *Paper* is [healthier for our eyes](https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes), making it the optimal choice for long-term viewing and a necessity in digital life.
 
