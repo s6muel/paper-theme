@@ -21,6 +21,8 @@ For requests please raise an issue.
 - [Bashtop](themes/bashtop)
 - [iTerm2](themes/iterm)
     - Looks best in [oh-my-zsh](https://ohmyz.sh/) with the [Typewritten theme](https://github.com/reobin/typewritten)
+- [Obsidian](themes/obsidian)
+    - [Screenshot](screenshots/paper-obs-eg.png) | [Screenshot](screenshots/paper-obs-eg0.png)
 - [vifm](themes/vifm)
     - Palette applied in line with `exa`’s [File Class Colours](https://the.exa.website/docs/colour-themes)
 - [Vieb](themes/vieb)
