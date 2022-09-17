@@ -1,6 +1,6 @@
 " VIFM COLORS
-" solarized light
-" based on: https://github.com/altercation/vim-colors-solarized/blob/master/colors/solarized.vim
+" Paper Theme c/o Samuel Sinclair
+" Original palette by @YorickPeterse
 
 " default = -1 = None, can be used for transparency or default color
 " black = 0
@@ -55,4 +55,3 @@ highlight Socket          cterm=none ctermfg=red ctermbg=default
 highlight Device          cterm=none ctermfg=yellow ctermbg=default
 highlight Fifo            cterm=none ctermfg=cyan ctermbg=default
 highlight Executable      cterm=none ctermfg=green ctermbg=default
-
