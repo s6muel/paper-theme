@@ -19,6 +19,7 @@ Please note that the palette has been designed with the following display proper
 ## Supported Applications
 For requests please raise an issue.
 
+- [Alacritty](themes/alacritty)
 - [Bashtop](themes/bashtop)
 - [iTerm2](themes/iterm)
     - Looks best in [oh-my-zsh](https://ohmyz.sh/) with the [Typewritten theme](https://github.com/reobin/typewritten)
