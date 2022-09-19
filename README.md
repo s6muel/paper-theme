@@ -23,10 +23,10 @@ For requests please raise an issue.
     - Looks best in [oh-my-zsh](https://ohmyz.sh/) with the [Typewritten theme](https://github.com/reobin/typewritten)
 - [Obsidian](themes/obsidian)
     - [Screenshot](screenshots/paper-obs-eg.png) | [Screenshot](screenshots/paper-obs-eg0.png)
-- [vifm](themes/vifm)
+- [vifm](themes/vifm) - Now included in the [vifm-colors repository](https://github.com/vifm/vifm-colors/) by default.
     - Palette applied in line with `exa`’s [File Class Colours](https://the.exa.website/docs/colour-themes)
 - [Vieb](themes/vieb)
-    - Includes default and compact layouts.
+    - Includes default and compact layouts; follow-mode hinting colours reminiscent of traditional highlighters.
 
 ### Related Projects
 - *The original* [(Neo)Vim](https://gitlab.com/yorickpeterse/vim-paper) plugin c/o Yorick Peterse
