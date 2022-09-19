@@ -18,6 +18,7 @@ Please note that the palette has been designed with the following display proper
 For requests please raise an issue.
 
 - [Alacritty](themes/alacritty)
+    - [Screenshot](screenshots/alacritty-eg.png)
 - [Bashtop](themes/bashtop)
 - [iTerm2](themes/iterm)
     - Looks best in [oh-my-zsh](https://ohmyz.sh/) with the [Typewritten theme](https://github.com/reobin/typewritten)
