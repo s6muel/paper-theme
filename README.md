@@ -17,17 +17,17 @@ Please note that the palette has been designed with the following display proper
 ## Supported Applications
 For requests please raise an issue.
 
-- [Alacritty](themes/alacritty)
+- [Alacritty](https://github.com/alacritty/alacritty): [theme](themes/alacritty)
     - [Screenshot](screenshots/alacritty-eg.png)
-- [Bashtop](themes/bashtop)
-- [iTerm2](themes/iterm)
+- [Bashtop](https://github.com/alacritty/alacritty): [theme](themes/bashtop)
+- [iTerm2](https://github.com/gnachman/iTerm2/): [theme](themes/iterm)
     - Looks best in [oh-my-zsh](https://ohmyz.sh/) with the [Typewritten theme](https://github.com/reobin/typewritten)
-- [Obsidian](themes/obsidian)
+- [Obsidian](https://obsidian.md/): [how to install](themes/obsidian/howto.md)
     - [Screenshot](screenshots/paper-obs-eg.png) | [Screenshot](screenshots/paper-obs-eg0.png)
-- [vifm](themes/vifm) - Now included in the [vifm-colors repository](https://github.com/vifm/vifm-colors/) by default.
+- [vifm](https://github.com/vifm/vifm) - Included in the [vifm-colors repository](https://github.com/vifm/vifm-colors/) by default.
     - Palette applied in line with `exa`’s [File Class Colours](https://the.exa.website/docs/colour-themes)
-- [Vieb](themes/vieb)
-    - Includes default and compact layouts; follow-mode hinting colours reminiscent of traditional highlighters.
+- [Vieb](https://github.com/Jelmerro/Vieb): [theme](themes/vieb)
+    - Includes default and compact layouts; and follow-mode hinting colours reminiscent of traditional highlighters.
 
 ### Related Projects
 - *The original* [(Neo)Vim](https://gitlab.com/yorickpeterse/vim-paper) plugin c/o Yorick Peterse
