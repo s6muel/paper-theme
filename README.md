@@ -15,25 +15,25 @@ Please note that the palette has been designed with the following display proper
 - A low display brightness
 
 ## Supported Applications
-For requests please raise an issue.
+To submit application requests please raise an issue.
 
-- [Alacritty](https://github.com/alacritty/alacritty): [theme](themes/alacritty)
-    - [Screenshot](screenshots/alacritty-eg.png)
-- [Bashtop](https://github.com/alacritty/alacritty): [theme](themes/bashtop)
-- [Hyper Terminal](https://github.com/vercel/hyper): `hyper i hyper-paper`
-    - [npm repo](https://www.npmjs.com/package/hyper-paper) ![npm downloads](https://img.shields.io/npm/dm/hyper-paper?color=%23CC3E28&label=DL&logoColor=%23CC3E28)
-- [iTerm2](https://github.com/gnachman/iTerm2/): [theme](themes/iterm)
-    - Looks best in [oh-my-zsh](https://ohmyz.sh/) with the [Typewritten theme](https://github.com/reobin/typewritten)
-- [Obsidian](https://obsidian.md/): [how to install](themes/obsidian/howto.md)
-    - [Screenshot](screenshots/paper-obs-eg.png) | [Screenshot](screenshots/paper-obs-eg0.png)
-- [vifm](https://github.com/vifm/vifm) - Included in the [vifm-colors repository](https://github.com/vifm/vifm-colors/) by default.
-    - Palette applied in line with `exa`’s [File Class Colours](https://the.exa.website/docs/colour-themes)
-- [Vieb](https://github.com/Jelmerro/Vieb): [theme](themes/vieb)
+### Browsers
+- **Vieb** -- [theme](themes/vieb)
     - Includes default and compact layouts; and follow-mode hinting colours reminiscent of traditional highlighters.
-
-### Related Projects
-- *The original* [(Neo)Vim](https://gitlab.com/yorickpeterse/vim-paper) plugin c/o Yorick Peterse
-- [VS Code](https://marketplace.visualstudio.com/items?itemName=18kimn.notebook-theme) c/o Nathan Kim
+### File Managers
+- **vifm** -- Included in the [vifm-colors repository](https://github.com/vifm/vifm-colors/) by default.
+    - Palette applied in line with `exa`’s [File Class Colours](https://the.exa.website/docs/colour-themes)
+### Terminals
+- **Alacritty** -- [theme](themes/alacritty)
+    - [Screenshot](screenshots/alacritty-eg.png)
+- **Bashtop** -- [theme](themes/bashtop)
+- **Hyper** -- Simply run `hyper i hyper-paper`
+    - Available in a [separate repository](https://www.npmjs.com/package/hyper-paper).
+- **iTerm2** -- [theme](themes/iterm)
+    - Looks best in [oh-my-zsh](https://ohmyz.sh/) with the [Typewritten theme](https://github.com/reobin/typewritten)
+### Text Editors
+- **Obsidian** -- [Installation instructions](themes/obsidian/howto.md)
+    - [Screenshot](screenshots/paper-obs-eg.png) -- [Screenshot](screenshots/paper-obs-eg0.png)
 
 ## The Palette
 
@@ -54,6 +54,10 @@ For the text color, highlight color, etc, use:
 |:----------|:-----------|:------------
 | Text      | `#000000`  | `#F2EEDE`
 | Highlight | `#000000`  | `#D8D5C7`
+
+## Related Projects
+- *The original* [(Neo)Vim Theme](https://gitlab.com/yorickpeterse/vim-paper) c/o Yorick Peterse
+- [VS Code Theme](https://marketplace.visualstudio.com/items?itemName=18kimn.notebook-theme) c/o Nathan Kim
 
 ## License
 All source code in this repository is licensed under the Mozilla Public License version 2.0, unless stated otherwise. A copy of this license can be found in the file "LICENSE".
