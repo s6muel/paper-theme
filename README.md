@@ -20,6 +20,8 @@ For requests please raise an issue.
 - [Alacritty](https://github.com/alacritty/alacritty): [theme](themes/alacritty)
     - [Screenshot](screenshots/alacritty-eg.png)
 - [Bashtop](https://github.com/alacritty/alacritty): [theme](themes/bashtop)
+- [Hyper Terminal](https://github.com/vercel/hyper): `hyper i hyper-paper`
+    - [npm repo](https://www.npmjs.com/package/hyper-paper) ![npm downloads](https://img.shields.io/npm/dm/hyper-paper?color=%23CC3E28&label=DL&logoColor=%23CC3E28)
 - [iTerm2](https://github.com/gnachman/iTerm2/): [theme](themes/iterm)
     - Looks best in [oh-my-zsh](https://ohmyz.sh/) with the [Typewritten theme](https://github.com/reobin/typewritten)
 - [Obsidian](https://obsidian.md/): [how to install](themes/obsidian/howto.md)
