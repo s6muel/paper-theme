@@ -26,7 +26,7 @@ To submit application requests please raise an issue or feel free to contribute 
     - <details>
         <summary>Screenshot</summary>
         <p>
-            ![vifm-eg](screenshots/vifm-eg.png)
+            <img src='screenshots/vifm-eg.png'></img>
         </p>
     </details>
 ### Resource Monitors
@@ -34,30 +34,29 @@ To submit application requests please raise an issue or feel free to contribute 
     - <details>
         <summary>Screenshot</summary>
         <p>
-             ![btop-eg](screenshots/btop-eg.png)
+             <img src='screenshots/btop-eg.png'></img>
         </p>
      </details>
-
 ### Terminals
 - **Alacritty** -- Install via the [alacritty-themes](https://github.com/rajasegar/alacritty-themes) repository.
     - <details>
         <summary>Screenshot</summary>
         <p>
-             ![alacritty-eg](screenshots/alacritty-eg.png)
+             <img src='screenshots/alacritty-eg.png'></img>
         </p>
      </details>
 - **Hyper** -- Available via [npm](https://www.npmjs.com/package/hyper-paper): simply run `hyper i hyper-paper` inside Hyper.
     - <details>
         <summary>Screenshot</summary>
         <p>
-             ![hyper-eg](screenshots/hyper-eg.png)
+             <img src='screenshots/hyper-eg.png'></img>
         </p>
      </details>
 - **iTerm2** -- [[Source]](themes/iterm)
     - <details>
         <summary>Screenshot</summary>
         <p>
-             ![iterm-eg](screenshots/iterm-eg.png)
+             <img src='screenshots/iterm-eg.png'></img>
         </p>
      </details>
 ### Text Editors
@@ -65,15 +64,15 @@ To submit application requests please raise an issue or feel free to contribute 
     - <details>
         <summary>Screenshots</summary>
         <p>
-             ![obs-eg](screenshots/paper-obs-eg.png)
-             ![obs-eg0](screenshots/paper-obs-eg0.png)
+             <img src='screenshots/paper-obs-eg.png'></img></br>
+             <img src='screenshots/paper-obs-eg0.png'></img>
         </p>
      </details>
 - **(Neo)Vim** -- *The original* [Paper Theme](https://gitlab.com/yorickpeterse/vim-paper) c/o @YorickPeterse.
     - <details>
         <summary>Screenshot</summary>
         <p>
-             ![vim-eg](screenshots/vim-eg.png)
+             <img src='screenshots/vim-eg.png'></img>
         </p>
      </details>
 - **Visual Studio Code** -- Install via [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=18kimn.notebook-theme) c/o @18kimn (Nathan Kim).
