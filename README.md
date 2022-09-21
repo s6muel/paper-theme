@@ -21,6 +21,19 @@ To submit application requests please raise an issue or feel free to contribute 
 - **Vieb** (It’s pronounced ‘veep’ like ‘sheep’) -- [[Source]](themes/vieb)
     - Includes default and compact layouts; and follow-mode hinting colours reminiscent of traditional highlighters.
 ### File Managers
+- **Midnight Commander** -- [[Source]](themes/mc)
+    - Installation
+        1. Download the latest release **[here](https://gitlab.com/samue1/paper-theme/-/raw/main/themes/mc/paper-true.ini)** and place it in your `~/.local/share/mc/skins` folder
+            - You may need to create this folder: `mkdir -p ~/.local/share/mc/skins`
+        2. Run `mc`; press `F9`, then `oa`, and select `paper-true` as your skin
+        3. Remove your sunglasses (or don't 😎)
+    - <details>
+        <summary>Screenshots</summary>
+        <p>
+            <img src='screenshots/mc-eg.png'></img><br></br>
+            <img src='screenshots/mc-ia.gif'></img>
+        </p>
+    </details>
 - **vifm** -- Install via the [vifm-colors repository](https://github.com/vifm/vifm-colors/).
     - Palette has been applied in line with `exa`’s [File Class Colours](https://the.exa.website/docs/colour-themes).
     - <details>
