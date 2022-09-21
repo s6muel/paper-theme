@@ -18,6 +18,15 @@ Please note that the palette has been designed with the following display proper
 To submit application requests please raise an issue or feel free to contribute via a pull request. Cheers!
 
 ### Browsers
+- **Firefox** - [[Source]](themes/firefox)
+    - Available as an [add on](https://addons.mozilla.org/en-US/firefox/addon/legible-paper-theme/).
+    - <details>
+        <summary>Screenshots</summary>
+        <p>
+            <img src='screenshots/firefox-eg.png'></img><br></br>
+            <img src='screenshots/firefox-eg0.png'></img>
+        </p>
+    </details>
 - **Vieb** (It’s pronounced ‘veep’ like ‘sheep’) -- [[Source]](themes/vieb)
     - Includes default and compact layouts; and follow-mode hinting colours reminiscent of traditional highlighters.
 
