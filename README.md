@@ -69,7 +69,6 @@ To submit application requests please raise an issue or feel free to contribute 
              ![obs-eg0](screenshots/paper-obs-eg0.png)
         </p>
      </details>
-
 - **(Neo)Vim** -- *The original* [Paper Theme](https://gitlab.com/yorickpeterse/vim-paper) c/o @YorickPeterse.
     - <details>
         <summary>Screenshot</summary>
