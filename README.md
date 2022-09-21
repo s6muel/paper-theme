@@ -20,8 +20,11 @@ To submit application requests please raise an issue or feel free to contribute 
 ### Browsers
 - **Vieb** (It’s pronounced ‘veep’ like ‘sheep’) -- [[Source]](themes/vieb)
     - Includes default and compact layouts; and follow-mode hinting colours reminiscent of traditional highlighters.
+
 ### File Managers
-- **Midnight Commander** -- [[Source]](themes/mc)
+File manager palettes are applied in line with `exa`’s [File Class Colours](https://the.exa.website/docs/colour-themes).
+
+- **Midnight Commander**
     - Installation
         1. Download the latest release **[here](https://gitlab.com/samue1/paper-theme/-/raw/main/themes/mc/paper-true.ini)** and place it in your `~/.local/share/mc/skins` folder
             - You may need to create this folder: `mkdir -p ~/.local/share/mc/skins`
@@ -34,16 +37,22 @@ To submit application requests please raise an issue or feel free to contribute 
             <img src='screenshots/mc-ia.gif'></img>
         </p>
     </details>
-- **vifm** -- Install via the [vifm-colors repository](https://github.com/vifm/vifm-colors/).
-    - Palette has been applied in line with `exa`’s [File Class Colours](https://the.exa.website/docs/colour-themes).
+- **vifm**
+    - Available via the [vifm-colors repository](https://github.com/vifm/vifm-colors/).
     - <details>
         <summary>Screenshot</summary>
         <p>
             <img src='screenshots/vifm-eg.png'></img>
         </p>
     </details>
+
 ### Resource Monitors
-- **Bashtop** -- [[Source]](themes/bashtop)
+- **Bashtop**
+    - Installation
+        1. Download the latest release **[here](https://gitlab.com/samue1/paper-theme/-/raw/main/themes/bashtop/paper.theme)** and place it in your `~/.config/btop/themes` folder
+            - You may need to create this folder: `mkdir -p ~/.config/btop/themes`
+        2. Run `btop`, press `Esc`, open ‘Options’, and select `paper` as your theme
+        3. Consider a lower SPF sun cream 🏖️
     - <details>
         <summary>Screenshot</summary>
         <p>
@@ -51,21 +60,29 @@ To submit application requests please raise an issue or feel free to contribute 
         </p>
      </details>
 ### Terminals
-- **Alacritty** -- Install via the [alacritty-themes](https://github.com/rajasegar/alacritty-themes) repository.
+- **Alacritty**
+    - Available with the [alacritty-themes](https://github.com/rajasegar/alacritty-themes) extension.
     - <details>
         <summary>Screenshot</summary>
         <p>
              <img src='screenshots/alacritty-eg.png'></img>
         </p>
      </details>
-- **Hyper** -- Available via [npm](https://www.npmjs.com/package/hyper-paper): simply run `hyper i hyper-paper` inside Hyper.
+- **Hyper**
+    - Available via [npm](https://www.npmjs.com/package/hyper-paper): simply run `hyper i hyper-paper` inside Hyper.
     - <details>
         <summary>Screenshot</summary>
         <p>
              <img src='screenshots/hyper-eg.png'></img>
         </p>
      </details>
-- **iTerm2** -- [[Source]](themes/iterm)
+- **iTerm2**
+    - Installation
+        1. Download the latest release **[here](https://gitlab.com/samue1/paper-theme/-/raw/main/themes/iterm/paper.itermcolors)**
+        2. Run `iTerm2`, press `⌘,`, open ‘Profiles’ and select the ‘Colors’ tab
+        3. Click the ‘Color Presets’ drop-down, click ‘Import’ and select the `paper.itermcolors` file
+        4. Select ‘Paper’ from the ‘Color Presets’ drop-down
+        5. Seek out the sun elsewhere ☀️
     - <details>
         <summary>Screenshot</summary>
         <p>
@@ -74,6 +91,13 @@ To submit application requests please raise an issue or feel free to contribute 
      </details>
 ### Text Editors
 - **Obsidian** -- [[Source]](themes/obsidian)
+    - Installation
+        1. Download the latest release **[here](https://gitlab.com/samue1/paper-theme/-/raw/main/themes/obsidian/paper-theme.json)**
+        2. Install the latest version of:
+            - @kepano’s [Minimal Theme](https://github.com/kepano/obsidian-minimal) and [Minimal Theme Settings plug in](https://github.com/kepano/obsidian-minimal-settings)
+            - @mgmeyers’ [Style Settings plug in](https://github.com/mgmeyers/obsidian-style-settings)
+        3. Open `Style Settings` and import `paper-theme.json`
+        4. Enjoy!
     - <details>
         <summary>Screenshots</summary>
         <p>
@@ -81,14 +105,16 @@ To submit application requests please raise an issue or feel free to contribute 
              <img src='screenshots/paper-obs-eg0.png'></img>
         </p>
      </details>
-- **(Neo)Vim** -- *The original* [Paper Theme](https://gitlab.com/yorickpeterse/vim-paper) c/o @YorickPeterse.
+- **(Neo)Vim**
+    - *The* ***original*** [Paper Theme plug-in](https://gitlab.com/yorickpeterse/vim-paper) c/o @YorickPeterse.
     - <details>
         <summary>Screenshot</summary>
         <p>
              <img src='screenshots/vim-eg.png'></img>
         </p>
      </details>
-- **Visual Studio Code** -- Install via [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=18kimn.notebook-theme) c/o @18kimn (Nathan Kim).
+- **Visual Studio Code**
+    - Install via [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=18kimn.notebook-theme) c/o @18kimn (Nathan Kim).
 
 ## The Palette
 
