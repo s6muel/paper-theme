@@ -110,8 +110,14 @@ File manager palettes are applied in line with `exa`’s [File Class Colours](ht
              <img src='screenshots/iterm-eg.png'></img>
         </p>
      </details>
+- **Tilix**
+    - Installation
+        1. Execute the following command to download the theme:
+            - `wget -qO $HOME"/.config/tilix/schemes/paper.json" https://gitlab.com/samue1/paper-theme/-/raw/main/themes/tilix/paper.json`
+        2. Open `Tilix` and select ‘Paper Theme’ via `Preferences -> Default -> Color -> Color scheme`
+        3. Enjoy!
 ### Text Editors
-- **Obsidian** -- [[Source]](themes/obsidian)
+- **Obsidian**
     - Installation
         1. Download the latest release **[here](https://gitlab.com/samue1/paper-theme/-/raw/main/themes/obsidian/paper-theme.json)**
         2. Install the latest version of:
