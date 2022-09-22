@@ -41,6 +41,12 @@ To submit application requests please raise an issue or feel free to contribute 
     </details>
 - **Vieb** (It’s pronounced ‘veep’ like ‘sheep’) -- [[Source]](themes/vieb)
     - Includes default and compact layouts; and follow-mode hinting colours reminiscent of traditional highlighters.
+    - <details>
+        <summary>Screenshots</summary>
+        <p>
+            <img src='screenshots/vieb-eg.png'></img><br></br>
+        </p>
+    </details>
 
 ### File Managers
 File manager palettes are applied in line with `exa`’s [File Class Colours](https://the.exa.website/docs/colour-themes).
