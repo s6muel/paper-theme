@@ -1,0 +1,52 @@
+{
+	"manifest_version": 3,
+	"name": "Paper Theme",
+	"description": "The extremely legible light theme.",
+	"version": "1.0",
+	"author": "Samuel Sinclair (samuelsinclair.com)",
+  "icons": {
+      "16": "images/icon_16.png",
+      "32": "images/icon_32.png",
+      "48": "images/icon_48.png",
+      "128": "images/icon_128.png"
+  },
+	"theme": {
+		"colors": {
+			"background_tab": [ 242, 238, 222 ],
+			"background_tab_inactive": [ 242, 238, 222 ],
+			"background_tab_incognito": [ 242, 238, 222 ],
+			"background_tab_incognito_inactive": [ 242, 238, 222 ],
+			"bookmark_text": [ 0, 0, 0 ],
+			"button_background": [ 242, 238, 222 ],
+			"frame": [ 242, 238, 222 ],
+			"frame_inactive": [ 242, 238, 222 ],
+			"frame_incognito": [ 242, 238, 222 ],
+			"frame_incognito_inactive": [ 242, 238, 222 ],
+			"ntp_background": [ 242, 238, 222 ],
+			"ntp_header": [ 242, 238, 222 ],
+			"ntp_link": [ 204, 62, 40 ],
+			"ntp_text": [ 0, 0, 0 ],
+			"omnibox_text": [ 0, 0, 0 ],
+			"omnibox_background": [ 242, 238, 222 ],
+			"tab_background_text": [ 0, 0, 0 ],
+			"tab_background_text_inactive": [ 0, 0, 0 ],
+			"tab_background_text_incognito": [ 0, 0, 0 ],
+			"tab_background_text_incognito_inactive": [ 0, 0, 0 ],
+			"tab_text": [ 0, 0, 0 ],
+			"toolbar": [ 242, 238, 222 ],
+			"toolbar_button_icon": [ 0, 0, 0 ],
+			"toolbar_button_text": [ 0, 0, 0 ]
+		},
+		"tints": {
+			"buttons": [ 242, 238, 222 ],
+			"frame": [ 242, 238, 222 ],
+			"frame_inactive": [ 242, 238, 222 ],
+			"frame_incognito": [ 242, 238, 222 ],
+			"frame_incognito_inactive": [ 242, 238, 222 ],
+      "background_tab": [ 242, 238, 222 ]
+		},
+		"images": {
+			"theme_toolbar": "images/theme_toolbar.png"
+		}
+	}
+}
