@@ -139,7 +139,7 @@ File manager palettes are applied in line with `exa`’s [File Class Colours](ht
     - <details>
         <summary>Screenshot</summary>
         <p>
-             <img src='screenshots/vim-eg.png'></img>
+             <img src='screenshots/vim-paper-airline-eg0.png'></img>
         </p>
      </details>
 - **Visual Studio Code**
@@ -169,6 +169,7 @@ For the text color, highlight color, etc, use:
 - This project would not be possible without [Yorick’s](https://gitlab.com/yorickpeterse) work -- cheers mate!
 - The [Dracula project](https://github.com/dracula) has provided useful starting places for the Chrome, Firefox, and Tilix themes.
 - Tilix’ installation instructions were sourced from the [Tilix-Themes](https://github.com/storm119/Tilix-Themes) project c/o @storm119.
+- The light theme from the `vim-airline-themes` originally written in [July, 2013](https://github.com/vim-airline/vim-airline-themes/commit/72a201e61882b907df355432e313d34c6e949396) by @bling, provided the base for `paper.vim`.
 
 ## License
 All source code in this repository is licensed under the Mozilla Public License version 2.0, unless stated otherwise. A copy of this license can be found in the file "LICENSE".
