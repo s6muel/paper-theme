@@ -164,7 +164,9 @@ For the text color, highlight color, etc, use:
 | Highlight | `#000000`  | `#D8D5C7`
 
 ## Thanks
-This project would not be possible without [Yorick’s](https://gitlab.com/yorickpeterse) work -- cheers mate!
+- This project would not be possible without [Yorick’s](https://gitlab.com/yorickpeterse) work -- cheers mate!
+- The [Dracula project](https://github.com/dracula) has provided useful starting places for the Chrome, Firefox, and Tilix themes.
+- Tilix’ installation instructions were sourced from the [Tilix-Themes](https://github.com/storm119/Tilix-Themes) project c/o @storm119.
 
 ## License
 All source code in this repository is licensed under the Mozilla Public License version 2.0, unless stated otherwise. A copy of this license can be found in the file "LICENSE".
