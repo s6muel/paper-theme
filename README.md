@@ -18,8 +18,20 @@ Please note that the palette has been designed with the following display proper
 To submit application requests please raise an issue or feel free to contribute via a pull request. Cheers!
 
 ### Browsers
-- **Firefox** - [[Source]](themes/firefox)
-    - Available as an [add on](https://addons.mozilla.org/en-US/firefox/addon/legible-paper-theme/).
+- **Chrome**
+    - Installation
+        1. Download the latest release **[here](https://gitlab.com/samue1/paper-theme/-/raw/main/themes/chrome/paper-theme.crx)**
+            - *You should peruse the [source code](themes/chrome) before installing an extension that is not on the Chrome Web Store*
+        2. Enable `Developer mode` in the top right of the `chrome://extensions` page, and drag `paper-theme.crx` into Chrome.
+        3. Ask your retinas for forgiveness 🙏
+    - <details>
+        <summary>Screenshot</summary>
+        <p>
+            <img src='screenshots/chrome-eg.png'></img>
+        </p>
+    </details>
+- **Firefox**
+    - Available as an [add on from Mozilla](https://addons.mozilla.org/en-US/firefox/addon/legible-paper-theme/).
     - <details>
         <summary>Screenshots</summary>
         <p>
