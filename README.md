@@ -19,11 +19,7 @@ To submit application requests please raise an issue or feel free to contribute 
 
 ### Browsers
 - **Chrome**
-    - Installation
-        1. Download the latest release **[here](https://gitlab.com/samue1/paper-theme/-/raw/main/themes/chrome/paper-theme.crx)**
-            - *You should peruse the [source code](themes/chrome) before installing an extension that is not on the Chrome Web Store*
-        2. Enable `Developer mode` in the top right of the `chrome://extensions` page, and drag `paper-theme.crx` into Chrome.
-        3. Ask your retinas for forgiveness 🙏
+    - Available as an [extension on the Chrome Store](https://chrome.google.com/webstore/detail/paper-theme/pmfelkdbnoadbaioappibdfakfdfhlle).
     - <details>
         <summary>Screenshot</summary>
         <p>
