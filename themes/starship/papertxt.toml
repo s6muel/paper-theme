@@ -1,0 +1,42 @@
+format = """
+$username\
+$hostname\
+$directory\
+$git_branch\
+$git_state\
+$git_status\
+$git_commit\
+$line_break\
+$python\
+$character"""
+
+[character]
+success_symbol = "[>](fg:#D8D5C7)"
+error_symbol = "[>](fg:#D8D5C7)"
+vicmd_symbol = "[>](fg:#D8D5C7)"
+
+[git_branch]
+format = "[$branch]($style)"
+symbol = "git"
+style = "black"
+
+[git_commit]
+tag_symbol = " tag "
+
+[git_status]
+format = "[[(* $conflicted$untracked$staged$deleted$renamed$modified)](red) ( $ahead_behind$stashed)]($style)"
+style = "red"
+ahead = ">"
+behind = "<"
+diverged = "<>"
+staged = "+"
+renamed = "r"
+modified = "~"
+deleted = "x"
+stashed = "$"
+untracked = "?"
+
+[directory]
+style = "blue bold"
+read_only = " ro"
+truncation_length = 2
