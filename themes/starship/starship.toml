@@ -25,8 +25,8 @@ commit_hash_length = 7
 tag_symbol = " #"
 
 [git_status]
-format = "[[(* $conflicted$untracked$staged$deleted$renamed$modified)](red) ( $ahead_behind$stashed )]($style)"
-style = "red"
+format = "[[( *$conflicted$untracked$staged$deleted$renamed$modified)](red bold) ($ahead_behind$stashed )]($style)"
+style = "red bold"
 ahead = "⇡"
 behind = "⇣"
 diverged = "⇕"
