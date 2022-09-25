@@ -21,6 +21,9 @@ symbol = "git"
 style = "black"
 
 [git_commit]
+format = "[$hash]($style) "
+style = "white bold"
+commit_hash_length = 7
 tag_symbol = " tag "
 
 [git_status]
