@@ -7,7 +7,6 @@ $git_state\
 $git_status\
 $git_commit\
 $line_break\
-$python\
 $character"""
 
 [character]
@@ -16,15 +15,15 @@ error_symbol = "[❯](black)"
 vicmd_symbol = "[❯](black)"
 
 [git_branch]
-format = "[$branch]($style)"
+format = "[$symbol$branch(:$remote_branch)]($style)"
 symbol = " "
 style = "black"
 
 [git_commit]
-format = "[$hash]($style) "
-style = "white bold"
+format = "[($hash$tag)]($style) "
+style = "white"
 commit_hash_length = 7
-tag_symbol = " 🏷 "
+tag_symbol = " #"
 
 [git_status]
 format = "[[(* $conflicted$untracked$staged$deleted$renamed$modified)](red) ( $ahead_behind$stashed)]($style)"
