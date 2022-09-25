@@ -11,9 +11,9 @@ $python\
 $character"""
 
 [character]
-success_symbol = "[>](fg:#D8D5C7)"
-error_symbol = "[>](fg:#D8D5C7)"
-vicmd_symbol = "[>](fg:#D8D5C7)"
+success_symbol = "[>](black)"
+error_symbol = "[>](black)"
+vicmd_symbol = "[>](black)"
 
 [git_branch]
 format = "[$branch]($style)"
