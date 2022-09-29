@@ -21,8 +21,8 @@ style = "black"
 [git_commit]
 format = "[($hash$tag)]($style) "
 style = "white"
+only_detached = false
 commit_hash_length = 7
-tag_symbol = " #"
 
 [git_status]
 format = "[[( *$conflicted$untracked$staged$deleted$renamed$modified)](red bold) ($ahead_behind$stashed )]($style)"
@@ -32,12 +32,12 @@ behind = "⇣"
 diverged = "⇕"
 staged = "+"
 renamed = "»"
-modified = "~"
+modified = "!"
 deleted = "✘"
 stashed = "≡"
 untracked = "?"
 
 [directory]
-style = "blue bold"
-read_only = "🔒"
+style = "black bold"
+read_only = " ro"
 truncation_length = 2
