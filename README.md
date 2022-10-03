@@ -35,8 +35,8 @@ To submit application requests please raise an issue or feel free to contribute 
             <img src='screenshots/firefox-eg0.png'></img>
         </p>
     </details>
-- **Vieb** (It’s pronounced ‘veep’ like ‘sheep’) -- [[Source]](themes/vieb)
-    - Includes default and compact layouts; and follow-mode hinting colours reminiscent of traditional highlighters.
+- **Vieb** (It’s pronounced ‘veep’ like ‘sheep’)
+    - Available out of the box: run `:colorscheme paper` or `:colorscheme paper-comact` and enjoy.
     - <details>
         <summary>Screenshots</summary>
         <p>
