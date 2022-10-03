@@ -36,7 +36,7 @@ To submit application requests please raise an issue or feel free to contribute 
         </p>
     </details>
 - **Vieb** (It’s pronounced ‘veep’ like ‘sheep’)
-    - Available out of the box: run `:colorscheme paper` or `:colorscheme paper-comact` and enjoy.
+    - Available out of the box: run `:colorscheme paper` or `:colorscheme paper-compact` and enjoy.
     - <details>
         <summary>Screenshots</summary>
         <p>
