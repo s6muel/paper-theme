@@ -112,6 +112,11 @@ File manager palettes are applied in line with `exa`’s [File Class Colours](ht
              <img src='screenshots/iterm-eg.png'></img>
         </p>
      </details>
+- **Kitty**
+    - Installation
+        1. Download the latest release [here](https://gitlab.com/samue1/paper-theme-raw/main/themes/kitty/paper.conf) and place it in your `~/.config/kitty/` folder
+        2. Add `include ./paper.conf` to your `kitty.conf`
+        3. Enjoy!
 - **Tilix**
     - Installation
         1. Execute the following command to download the theme:
