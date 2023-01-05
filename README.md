@@ -112,6 +112,11 @@ File manager palettes are applied in line with `exa`’s [File Class Colours](ht
              <img src='screenshots/iterm-eg.png'></img>
         </p>
      </details>
+- **Kitty**
+    - Installation
+        1. Download the latest release [here](https://gitlab.com/samue1/paper-theme-raw/main/themes/kitty/paper.conf) and place it in your `~/.config/kitty/` folder
+        2. Add `include ./paper.conf` to your `kitty.conf`
+        3. Enjoy!
 - **Tilix**
     - Installation
         1. Execute the following command to download the theme:
@@ -170,6 +175,7 @@ For the text color, highlight color, etc, use:
 - The [Dracula project](https://github.com/dracula) has provided useful starting places for the Chrome, Firefox, and Tilix themes.
 - Tilix’ installation instructions were sourced from the [Tilix-Themes](https://github.com/storm119/Tilix-Themes) project c/o @storm119.
 - The light theme from the `vim-airline-themes` originally written in [July, 2013](https://github.com/vim-airline/vim-airline-themes/commit/72a201e61882b907df355432e313d34c6e949396) by @bling, provided the base for `paper.vim`.
+- The Kitty Theme was kindly contributed by @ryanerwin. 
 
 ## License
 All source code in this repository is licensed under the Mozilla Public License version 2.0, unless stated otherwise. A copy of this license can be found in the file "LICENSE".
